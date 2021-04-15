@@ -1,3 +1,10 @@
+## Eerste test
+### Belangrijkste aanknopingspunten
+1. Donkere achtergrond en witte tekst is het handigst. 
+2. Hoge contrastkleuren als rgb(255,0,0), rgb(0,255,255) en rgb(255,0,255) zijn optimaal voor grafieken.
+3. Door de website navigeren met alleen tab, enter en escape mogelijk maken. 
+
+
 # Human Centered Design @cmda-minor-web 2021
 //Interactie ontwerpen: Rapid prototypen en testen met echte mensen
 
