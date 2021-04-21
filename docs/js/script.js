@@ -26,7 +26,6 @@ window.addEventListener("keypress", (event) => {
     }
     else if (event.key === "d"){
         console.log("d")
-        console.log(counter)
         counter++
         if (counter == (hoofdArray.length+1) || counter == 1){
             counter = 1
@@ -35,19 +34,15 @@ window.addEventListener("keypress", (event) => {
             hoofdArray[--counter].focus()
             counter++
         }
-        console.log(counter)
     }
     else if (event.key === "a"){
         console.log("a")
-        console.log(counter)
         if (counter <= 0 || counter == hoofdArray.length){
             counter = hoofdArray.length-1
             hoofdArray[counter].focus()
-            console.log(counter)
         } else {
             counter--
             hoofdArray[counter].focus()
-            console.log(counter)
         }
     }
     // else if (event.key === "s"){
