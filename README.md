@@ -5,6 +5,10 @@ Deze readme fungeert als een samenvatting van de documentatie. De volledige docu
 ## User scenario
 Roger is een 54 jarige man die lijdt aan macula degeneratie. Dit is een ziekte waarbij je gezichtsveld vanuit het midden langzaam verminderd. Hierdoor kan Roger alleen nog aan de zijkanten van zijn gezichtsveld zien. Dit zorgt ervoor dat hij moeilijker lange teksten kan lezen of grafieken minder goed kan interpreteren. Dit is ook de reden dat hij enkele maanden geleden arbeidsongeschikt is verklaard. Hij heeft heel veel moeite zich online voortbewegen door zijn verminderde gezicht en maakt hierdoor gebruik van een screenreader genaamd Supernova. Een muis gebruiken met Supernova is erg lastig en daarom wilt Roger beter leren hoe je alleen met het toetsenbord door websites kan navigeren. Omdat Roger vroeger wel altijd met een muis over het internet kon navigeren is het lastig om dit nu met een toetsenbord aan te leren.
 
+## Concept
+Ik was van plan om voor Roger een nieuwswebsite te maken die makkelijk en volledig toegankelijk is met het toetsenbord. De gebruiker zou met de QWEASD toetsen volledig door de nieuwswebsite kunnen navigeren. En vervolgens met de screenreader van Roger het gewenste artikel te laten voorlezen. 
+
+
 ## Eerste test
 ### Belangrijkste aanknopingspunten
 1. Donkere achtergrond en witte tekst is het handigst. 
