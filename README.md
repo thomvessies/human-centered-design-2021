@@ -20,8 +20,6 @@ Roger is een 54 jarige man die lijdt aan macula degeneratie. Dit is een ziekte w
 ### Belangrijkste aanknopingspunten
 1. Supernova blokkeert niet alleen de tabtoets deels, maar ook alle andere toetsen.
 
-## Conclusie tests
-Om een website specifiek voor Roger te maken, moet er rekening worden gehouden met Supernova. Dit programma is gemaakt om visueel beperkte mensen te helpen, maar kan functionaliteiten in een website ook extreem verminderen. 
 
 ## Installatie
 Deze app is gemaakt met vanilla JS. Je kunt de repo dus gewoon clones door middel van:
